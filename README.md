@@ -1,6 +1,6 @@
 # hello-word
 
-this is djino !!!!
+Hi humans !
 
 hello every one and welcome to my repository !!!
 
